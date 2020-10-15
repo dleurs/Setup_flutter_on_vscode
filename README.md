@@ -36,6 +36,15 @@ Select a text , Shift+alt(option)+F
 
 - Pubspec assist : cmd+Shift+P then pubspec assist
 
+## Tools for Mac
+
+
+### Configure internet access of your Mac/iPhone simulator to 3G
+- https://medium.com/macoclock/ios-simulator-simulates-slow-network-connection-615f910a2f43<br/>
+- https://developer.apple.com/download/more/?=for%20Xcode<br/>
+- Download Additional_Tools_for_Xcode then install Hardware > Network Link Conditioner.prefPane
+
+
 ## In terminal, use code
 
 in .zshrc : <br/>
