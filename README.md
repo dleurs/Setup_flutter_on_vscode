@@ -1,6 +1,5 @@
 # Setup VSCode for Flutter
 
-
 ## Extensions
 
 - Flutter and Dart extensions 
@@ -13,6 +12,8 @@
 - Flutter Intl
 - Color Highlight
 - Image Preview
+
+On VSCode > Preferences > Settings> dart.runPubGetOnPubspecChanges > false
 
 ## Theme 
 - Monokai theme
