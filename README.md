@@ -15,6 +15,8 @@
 
 On VSCode > Preferences > Settings> dart.runPubGetOnPubspecChanges > false
 
+You may have to use RVM if problem with pods
+
 ## Theme 
 - Monokai theme
 
