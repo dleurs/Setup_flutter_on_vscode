@@ -18,7 +18,7 @@ On VSCode > Preferences > Settings> dart.runPubGetOnPubspecChanges > false
 You may have to use RVM if problem with pods
 
 ## Theme 
-- Monokai theme
+- Monokai Theme, of gerane
 
 Remove default Monokai theme : https://stackoverflow.com/questions/67480448/remove-sublime-text-theme-in-vscode
 
