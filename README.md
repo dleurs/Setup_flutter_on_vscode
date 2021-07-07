@@ -20,6 +20,8 @@ You may have to use RVM if problem with pods
 ## Theme 
 - Monokai theme
 
+Remove default Monokai theme : https://stackoverflow.com/questions/67480448/remove-sublime-text-theme-in-vscode
+
 ## Shortkey
 
 - Multicursor : press alt and click
