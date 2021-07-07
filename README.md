@@ -13,7 +13,7 @@
 - Color Highlight
 - Image Preview
 
-You may have to use RVM if problem with pods
+You may install fvm 
 
 ## Theme 
 - Monokai Theme, of gerane
@@ -52,5 +52,6 @@ Select a text , Shift+alt(option)+F
 
 in .zshrc : <br/>
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin" <br/>
+// For below, different if using fvm
 export PATH="$PATH:/Users/dle/Documents/Flutter/Software/flutter/bin" <br/>
 export PATH="$PATH:/Applications/Sublime Text.app/Contents/SharedSupport/bin" <br/>
