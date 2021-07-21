@@ -39,6 +39,12 @@ Select a text , Shift+alt(option)+F
 
 - Pubspec assist : cmd+Shift+P then pubspec assist
 
+## VSCode Settings
+
+- Set the line length at 120
+
+In VSCode : Code > Settings > "Dart line length" > 120
+
 ## Tools for Mac
 
 
@@ -50,8 +56,10 @@ Select a text , Shift+alt(option)+F
 
 ## In terminal, use code
 
-in .zshrc : <br/>
-export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin" <br/>
+in .zshrc : 
+```
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 // For below, different if using fvm
 export PATH="$PATH:/Users/dle/Documents/Flutter/Software/flutter/bin" <br/>
 export PATH="$PATH:/Applications/Sublime Text.app/Contents/SharedSupport/bin" <br/>
+```
