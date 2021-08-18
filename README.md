@@ -26,13 +26,13 @@ Code > Settings > Preferences > User Snipper > select ```dart```
 ```json
 {
 	 "Import AppLocalisation": {
-	 	"prefix": "flutter_gen",
+	 	"prefix": "import applocalization",
 	 	"body": [
 	 		"import 'package:flutter_gen/gen_l10n/app_localizations.dart';",
 	 	],
 		"description": "Import generated app_localizations file"
 	 },
-	 "AppLocalisation text": {
+	 "AppLocalisation Text": {
 		"prefix": "applocalization",
 		"body": [
 			"AppLocalizations.of(context)!.$1"
