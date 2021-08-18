@@ -25,14 +25,14 @@ Remove default Monokai theme : https://stackoverflow.com/questions/67480448/remo
 Code > Settings > Preferences > User Snipper > select ```dart```
 ```json
 {
-	 "Print to console": {
+	 "Import AppLocalisation": {
 	 	"prefix": "flutter_gen",
 	 	"body": [
 	 		"import 'package:flutter_gen/gen_l10n/app_localizations.dart';",
 	 	],
 		"description": "Import generated app_localizations file"
 	 },
-	 "AppLocalisation": {
+	 "AppLocalisation text": {
 		"prefix": "applocalization",
 		"body": [
 			"AppLocalizations.of(context)!.$1"
