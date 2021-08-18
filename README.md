@@ -20,6 +20,28 @@ You may install fvm
 
 Remove default Monokai theme : https://stackoverflow.com/questions/67480448/remove-sublime-text-theme-in-vscode
 
+## Snippet
+
+Code > Settings > Preferences > User Snipper > select ```dart```
+```json
+{
+	 "Print to console": {
+	 	"prefix": "flutter_gen",
+	 	"body": [
+	 		"import 'package:flutter_gen/gen_l10n/app_localizations.dart';",
+	 	],
+		"description": "Import generated app_localizations file"
+	 },
+	 "AppLocalisation": {
+		"prefix": "applocalization",
+		"body": [
+			"AppLocalizations.of(context)!.$1"
+		],
+	   "description": "AppLocalizations.of(context)!.$1"
+	}
+}
+```
+
 ## Shortkey
 
 - Multicursor : press alt and click
