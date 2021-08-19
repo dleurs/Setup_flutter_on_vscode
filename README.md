@@ -38,6 +38,13 @@ Code > Settings > Preferences > User Snipper > select ```dart```
 			"AppLocalizations.of(context)!.$1"
 		],
 	   "description": "AppLocalizations.of(context)!.$1"
+	},
+	"kIsWeb import": {
+		"prefix": "import kisWeb",
+		"body": [
+			"import 'package:flutter/foundation.dart' show kIsWeb;"
+		],
+	   "description": "kIsWeb import"
 	}
 }
 ```
