@@ -45,7 +45,36 @@ Code > Settings > Preferences > User Snipper > select ```dart```
 			"import 'package:flutter/foundation.dart' show kIsWeb;"
 		],
 	   "description": "kIsWeb import"
+	},
+	"l10n": {
+		"prefix": "l10n",
+		"body": [
+			"import 'package:chanel_replica_show/generated/l10n.dart';"
+		],
+	   "description": "l10n"
+	},
+	"intl": {
+		"prefix": "intl",
+		"body": [
+			"import 'package:intl/intl.dart';"
+		],
+	   "description": "intl"
+	},
+	"log": {
+		"prefix": "log",
+		"body": [
+			"Log get log => Log.get(runtimeType.toString());"
+		],
+	   "description": "log"
+	},
+	"tz": {
+		"prefix": "tz",
+		"body": [
+			"import 'package:timezone/timezone.dart' as tz;"
+		],
+	   "description": "tz"
 	}
+
 }
 ```
 
