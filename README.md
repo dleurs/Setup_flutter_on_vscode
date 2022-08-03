@@ -99,9 +99,9 @@ Select a text , Shift+alt(option)+F
 
 ## VSCode Settings
 
-- Set the line length at 120
+- Set the line length at 80
 
-In VSCode : Code > Settings > "Dart line length" > 120
+In VSCode : Code > Settings > "Dart line length" > 80
 
 ## Tools for Mac
 
