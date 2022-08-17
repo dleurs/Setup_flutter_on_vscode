@@ -13,6 +13,10 @@
 - Color Highlight
 - Image Preview
 
+- To try : 
+  - Flutter Widget Snippets 
+  - Awesome Flutter Snippets
+
 You may install fvm 
 
 ## Theme 
