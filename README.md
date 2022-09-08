@@ -103,6 +103,10 @@ Select a text , Shift+alt(option)+F
 
 ## VSCode Settings
 
+- dart.devToolsBrowser chrome
+
+- dart.devToolsLocation external
+
 - Set the line length at 80
 
 In VSCode : Code > Settings > "Dart line length" > 80
