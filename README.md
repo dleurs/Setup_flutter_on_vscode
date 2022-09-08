@@ -24,6 +24,9 @@ You may install fvm
 
 Remove default Monokai theme : https://stackoverflow.com/questions/67480448/remove-sublime-text-theme-in-vscode
 
+![image](https://user-images.githubusercontent.com/58068925/189087814-89cd4d35-1035-4618-a773-663c9d6e3128.png)
+
+
 ## Snippet
 
 Code > Settings > Preferences > User Snipper > select ```dart```
